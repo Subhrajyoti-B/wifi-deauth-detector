@@ -1,4 +1,4 @@
-# 📡 WiFi Deauthentication Attack Detector
+📡 WiFi Deauthentication Attack Detector
 
 A Python-based **Wireless Intrusion Detection System (WIDS)** that
 detects WiFi Deauthentication attacks by analyzing raw 802.11 management
@@ -6,7 +6,7 @@ frames in monitor mode.
 
 ------------------------------------------------------------------------
 
-## 🚀 Overview
+🚀 Overview
 
 WiFi deauthentication attacks are commonly used in:
 
@@ -20,7 +20,7 @@ frames** in real time and alerts the user when a threshold is exceeded.
 
 ------------------------------------------------------------------------
 
-## 🔥 Features
+🔥 Features
 
 -   Real-time 802.11 packet monitoring\
 -   Deauthentication frame detection\
@@ -31,7 +31,7 @@ frames** in real time and alerts the user when a threshold is exceeded.
 
 ------------------------------------------------------------------------
 
-## 🛠️ Technologies Used
+🛠️ Technologies Used
 
 -   Python 3\
 -   Scapy\
@@ -42,7 +42,7 @@ frames** in real time and alerts the user when a threshold is exceeded.
 
 ------------------------------------------------------------------------
 
-## 🧠 Detection Logic
+🧠 Detection Logic
 
 The detector:
 
@@ -56,7 +56,7 @@ The detector:
 
 ------------------------------------------------------------------------
 
-## 📂 Project Structure
+📂 Project Structure
 
     wifi-deauth-detector/
     │
@@ -68,23 +68,23 @@ The detector:
 
 ------------------------------------------------------------------------
 
-## ⚙️ Installation
+⚙️ Installation
 
-### 1️⃣ Clone Repository
+1️⃣ Clone Repository
 
 ``` bash
-git clone https://github.com/yourusername/wifi-deauth-detector.git
+git clone https://github.com/Subhrajyoti-B/wifi-deauth-detector.git
 cd wifi-deauth-detector
 ```
 
-### 2️⃣ Create Virtual Environment (Recommended)
+2️⃣ Create Virtual Environment (Recommended)
 
 ``` bash
 python3 -m venv venv
 source venv/bin/activate
 ```
 
-### 3️⃣ Install Dependencies
+3️⃣ Install Dependencies
 
 ``` bash
 pip install -r requirements.txt
@@ -92,7 +92,7 @@ pip install -r requirements.txt
 
 ------------------------------------------------------------------------
 
-## 📡 Usage
+📡 Usage
 
 ### Step 1: Enable Monitor Mode
 
@@ -119,7 +119,7 @@ If attack is detected:
 
 ------------------------------------------------------------------------
 
-## 📝 Logs
+📝 Logs
 
 Detected attacks are stored in:
 
@@ -131,27 +131,19 @@ Log Format:
 
 ------------------------------------------------------------------------
 
-## 🎯 Resume Description
-
-Developed a Python-based Wireless Intrusion Detection System (WIDS)
-capable of detecting WiFi deauthentication attacks through real-time
-802.11 management frame analysis using Scapy in monitor mode.
-
-------------------------------------------------------------------------
-
-## ⚠️ Disclaimer
+⚠️ Disclaimer
 
 This project is intended for:
 
--   Educational purposes\
--   Authorized security testing\
+-   Educational purposes
+-   Authorized security testing
 -   Personal lab environments only
 
 Unauthorized wireless testing is illegal.
 
 ------------------------------------------------------------------------
 
-## 🔮 Future Improvements
+🔮 Future Improvements
 
 -   Channel hopping support\
 -   Evil Twin detection\
@@ -162,7 +154,7 @@ Unauthorized wireless testing is illegal.
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 Author
+👨‍💻 Author
 
-Subhrajyoti Bhowmik\
-Cybersecurity Enthusiast \| Ethical Hacking \| Wireless Security
+Subhrajyoti Bhowmik
+Cybersecurity Enthusiast | Ethical Hacking | Wireless Security
